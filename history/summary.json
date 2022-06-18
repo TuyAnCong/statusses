@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/ouo.chvmusic.repl.co",
     "slug": "ou-o-nodes",
     "status": "down",
-    "uptime": "62.15%",
-    "uptimeDay": "62.15%",
-    "uptimeWeek": "62.15%",
-    "uptimeMonth": "62.15%",
-    "uptimeYear": "62.15%",
-    "time": 1822,
-    "timeDay": 1822,
-    "timeWeek": 1822,
-    "timeMonth": 1822,
-    "timeYear": 1822,
+    "uptime": "99.59%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 6677,
+    "timeDay": 6677,
+    "timeWeek": 6677,
+    "timeMonth": 6677,
+    "timeYear": 6677,
     "dailyMinutesDown": {
-      "2022-06-17": 0
+      "2022-06-17": 5
     }
   }
 ]
